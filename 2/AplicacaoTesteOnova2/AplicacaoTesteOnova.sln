@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplicacaoTesteOnova", "AplicacaoTesteOnova\AplicacaoTesteOnova\AplicacaoTesteOnova.csproj", "{AFAD97CA-A008-4D7B-B848-191765E34B87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplicacaoTesteOnova.Android", "AplicacaoTesteOnova\AplicacaoTesteOnova.Android\AplicacaoTesteOnova.Android.csproj", "{0EE0B61D-D3EA-4462-BD90-C8B9CBD4F404}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplicacaoTesteOnova.Desktop", "AplicacaoTesteOnova\AplicacaoTesteOnova.Desktop\AplicacaoTesteOnova.Desktop.csproj", "{CBF4D6FE-870B-4152-B467-5D49333774A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplicacaoTesteOnova.iOS", "AplicacaoTesteOnova\AplicacaoTesteOnova.iOS\AplicacaoTesteOnova.iOS.csproj", "{BA20C005-74E1-4A49-9C3B-875FFDD7A2A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplicacaoTesteOnova.Browser", "AplicacaoTesteOnova\AplicacaoTesteOnova.Browser\AplicacaoTesteOnova.Browser.csproj", "{4FE934A1-BB73-47F7-A8A4-3EFF579C69AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFAD97CA-A008-4D7B-B848-191765E34B87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFAD97CA-A008-4D7B-B848-191765E34B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFAD97CA-A008-4D7B-B848-191765E34B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFAD97CA-A008-4D7B-B848-191765E34B87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EE0B61D-D3EA-4462-BD90-C8B9CBD4F404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EE0B61D-D3EA-4462-BD90-C8B9CBD4F404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EE0B61D-D3EA-4462-BD90-C8B9CBD4F404}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0EE0B61D-D3EA-4462-BD90-C8B9CBD4F404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EE0B61D-D3EA-4462-BD90-C8B9CBD4F404}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EE0B61D-D3EA-4462-BD90-C8B9CBD4F404}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{CBF4D6FE-870B-4152-B467-5D49333774A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBF4D6FE-870B-4152-B467-5D49333774A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBF4D6FE-870B-4152-B467-5D49333774A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBF4D6FE-870B-4152-B467-5D49333774A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA20C005-74E1-4A49-9C3B-875FFDD7A2A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA20C005-74E1-4A49-9C3B-875FFDD7A2A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA20C005-74E1-4A49-9C3B-875FFDD7A2A2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BA20C005-74E1-4A49-9C3B-875FFDD7A2A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA20C005-74E1-4A49-9C3B-875FFDD7A2A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA20C005-74E1-4A49-9C3B-875FFDD7A2A2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{4FE934A1-BB73-47F7-A8A4-3EFF579C69AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FE934A1-BB73-47F7-A8A4-3EFF579C69AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FE934A1-BB73-47F7-A8A4-3EFF579C69AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FE934A1-BB73-47F7-A8A4-3EFF579C69AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7D4B21F-39A3-4C73-A571-3727DAAA3BCE}
+	EndGlobalSection
+EndGlobal
